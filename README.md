@@ -8,6 +8,8 @@ While the dataset is fictitious, the logic and workflow **reflect real-world cha
 
 ## ✨ Before vs. After
 
+The "gray" fields represent the original dataset while the ones with colors are the new fields created/combined from original dataset.
+
 ![Before and After Screenshot](before_after_fields.png) 
 
 ---
