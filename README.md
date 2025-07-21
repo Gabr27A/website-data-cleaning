@@ -16,7 +16,7 @@ While the dataset is fictitious, the logic and workflow reflect real-world chall
 
 - Extract the **subfolder** (channel/category) and **page name** from raw URLs.
 - Clean and format the page name to be human-readable.
-- Simulate joining external data sources using `VLOOKUP` in Excel (and `merge()` in Python).
+- Simulate joining external data sources using `VLOOKUP` in Excel.
 - Showcase analytical thinking and real-world Excel functions for transformation; despite not memorizing syntax, I find solutions with tools like Google or ChatGPT.
 
 ---
