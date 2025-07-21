@@ -8,7 +8,7 @@ While the dataset is fictitious, the logic and workflow reflect real-world chall
 
 ## ✨ Before vs. After
 
-![Before and After Screenshot](visuals/before_after.png)
+![Before and After Screenshot](visuals/before_after_fields.png)
 
 ---
 
