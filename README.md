@@ -1,8 +1,8 @@
 # 🧪 Website URL Data Cleaning & Field Extraction
 
-This project demonstrates a typical data preparation task I encounter in digital marketing analytics: transforming raw website URLs into structured fields for analysis.
+This project demonstrates a typical **data preparation** task I encounter in **digital marketing analytics**: transforming raw website URLs into structured fields for analysis.
 
-While the dataset is fictitious, the logic and workflow reflect real-world challenges I solve in my role—especially when preparing datasets for Tableau dashboards or performance reporting.
+While the dataset is fictitious, the logic and workflow **reflect real-world challenges** I solve in my role—especially when preparing datasets for Tableau dashboards or performance reporting.
 
 ---
 
